@@ -4,5 +4,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?akashch1512" />
+  <img src="https://komarev.com/ghpvc/akashch1512" />
 </p>
