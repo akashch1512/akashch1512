@@ -1,7 +1,7 @@
 # Hey there :wave:
 
 --- ABOUT ME ---
-Aspiring Data Scientist & AI Engineer | B.Tech (CS) @ JNEC College | Proficient in DSA, OOPs, Python & C
+* Aspiring Data Scientist & AI Engineer | B.Tech (CS) @ JNEC College | Proficient in DSA, OOPs, Python & C
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
