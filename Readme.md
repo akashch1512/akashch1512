@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b2df677-6eee-47fe-8133-75cab2fdd98d/deploy-status)](https://app.netlify.com/sites/ecelljnec/deploys)
+
 # Hello, I'm Akash 👋
 
 Welcome to my GitHub profile! I'm an AIDS student with a passion for Python & Web Development. Here you'll find some of the projects I've been working on and my contributions to the open-source community.
