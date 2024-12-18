@@ -56,7 +56,6 @@ Let’s see what I've been working on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashch1512&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashch1512&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </p>
 
