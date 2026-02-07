@@ -17,7 +17,7 @@
 
 ### 🚀 **ABOUT ME**
 
-I am a **Computer Engineering Student** bridging the gap between raw data and actionable intelligence.
+I am a **Data Science & Artificial Intelligence Student** bridging the gap between raw data and actionable intelligence.
 <br/>
 My focus is on **Artificial Intelligence**, **Computer Vision**, and **Scalable Web Systems**.
 
