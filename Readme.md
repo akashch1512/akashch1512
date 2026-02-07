@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Akash Chaudhari
 
-### AI & Data Science Undergrad | Python Developer | Web Enthusiast
+### AI & Data Science Undergrad | Python Developer
 
 <br/>
 
@@ -38,24 +38,6 @@ My focus is on **Artificial Intelligence**, **Computer Vision**, and **Scalable 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-<br/>
-
----
-
-### 📊 **GITHUB STATS**
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashch1512&layout=compact&cache_seconds=86400" 
-  alt="Top Languages"
-  referrerpolicy="no-referrer"
-/>
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akashch1512" alt="GitHub Streak" /></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashch1512&v=1)
-
 
 <br/>
 
