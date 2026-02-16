@@ -55,15 +55,23 @@ My focus is on **Artificial Intelligence**, **Computer Vision**, and **Scalable 
 
 <br/>
 
----
+### ☕ **Support My Work**
 
-### ☕ **SUPPORT**
+You can contribute here if you find my projects helpful and want to support my journey
 
-If you like my work, support my journey!
+<a href=""> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /> </a>
 
-<a href="https://razorpay.me/@akashchaudharifreelanceservic">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+<p align="center">
+
+<a href="https://razorpay.me/@akashchaudharifreelanceservic" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20via%20Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Support via Razorpay"/>
 </a>
+
+<a href="https://paypal.me/akashchaudhari15" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal"/>
+</a>
+
+</p>
 
 <br/>
 <br/>
